@@ -81,7 +81,7 @@ Se dibujó un path mientas se hace scroll
 `});`
 
 # Bugs
-En caso de encontrarse con el error de `Cannot read property 'getTotalLength' of null` , añadir la siguiente línea de código para que se ejecute antes del DOM.
+En caso de encontrarse con el error de `Cannot read property 'getTotalLength' of null` , añadir la siguiente línea de código para que se ejecute con el DOM.
 
 `window.onload = function() {`
 
