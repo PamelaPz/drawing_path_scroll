@@ -89,4 +89,4 @@ En caso de encontrarse con el error de `Cannot read property 'getTotalLength' of
 
 `}`
 
-by: [https://stackoverflow.com/questions/45656653/uncaught-typeerror-cannot-read-property-gettotallength-of-null] (http://stackoverflow.com/questions/45656653/uncaught-typeerror-cannot-read-property-gettotallength-of-null)
+by: [https://stackoverflow.com/questions/45656653/uncaught-typeerror-cannot-read-property-gettotallength-of-null](http://stackoverflow.com/questions/45656653/uncaught-typeerror-cannot-read-property-gettotallength-of-null)
