@@ -46,6 +46,7 @@ Se dibujó un path mientas se hace scroll
 
 1. Añadir en el `App.js` el svg a utilizar
 2. Debajo de nuestra función `App()` anadir las siguientes líneas de código:
+
 ` var path = document.querySelector('id/clase-de-tu-svg');`
 
 ` var pathLength = path.getTotalLength();`
@@ -81,6 +82,7 @@ Se dibujó un path mientas se hace scroll
 
 # Bugs
 En caso de encontrarse con el error de `Cannot read property 'getTotalLength' of null` , añadir la siguiente línea de código para que se ejecute antes del DOM.
+
 `window.onload = function() {`
 
 `  ....code`
