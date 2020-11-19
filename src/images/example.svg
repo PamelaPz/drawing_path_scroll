@@ -1,0 +1,14 @@
+<svg height="300" version="1.1" id="my-svg" x="0px" y="0px" viewBox="0 0 466 600" 
+   style="enable/background:new 0 0 1366 768;" xml:space="preserve">
+    <style type="text/css">
+    	.st0{fill:none;stroke:#606060;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    	.st1{fill:none;stroke:#BF0404;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+    </style>
+    <g >
+    	<g>
+    	   <polygon id="fill2" class="st1" points="195.8,282 195.8,262.4 232.2,269.9 220.5,258.4 246.3,238.7 237.3,233.9 247.1,218.1 227.5,221.3
+    	   228.7,208.2 215,216.1 219.7,190.8 204.4,197.5 191.9,173 179.4,197.5 164.1,190.8 168.8,216.1 155.1,208.2 156.3,221.3
+    	   136.7,218.1 146.5,233.9 137.5,238.7 163.3,258.4 151.6,269.9 188,262.4 188,282"/>
+    	</g>
+    </g>
+</svg>
